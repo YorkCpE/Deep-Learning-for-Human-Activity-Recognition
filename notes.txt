@@ -1,1 +1,1 @@
-Must download and upzip dataset in ~/Downloads/. Then run data reader. Execution files require h5 file in this location.
+Must download and upzip dataset in ~/Downloads/. Then run data reader. Execution files require h5 file in this location. Both datareader.py and dataset/ must be located in ~/Downloads to execute correctly.
