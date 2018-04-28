@@ -12,8 +12,8 @@ from sklearn import metrics
 import h5py
 import os
 import sys
-import matplotlib.pyplot as plt
-plt.style.use('ggplot')
+#import matplotlib.pyplot as plt
+#plt.style.use('ggplot')
 
 
 # def feature_normalize(dataset):
